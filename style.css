@@ -1,0 +1,23 @@
+body {
+    background-color:brown;
+}
+
+#slaw1 {
+    color: orange;
+    font-size: 30px;
+}
+
+#slaw2 {
+    color: green;
+    font-size: 30px;
+}
+
+#slaw3 {
+    color: white;
+    font-size: 30px;
+}
+
+a {
+    color: white;
+    font-family: "Brush Script MT", "fantasy", serif;
+}
